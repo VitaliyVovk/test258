@@ -1,0 +1,9 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<people>
+   <person>
+		<name>Vasya</name>
+		<age>25</age>
+		<name>Petya</name>
+		<age>30</age>
+   </person>
+</people>
